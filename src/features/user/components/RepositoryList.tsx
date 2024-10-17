@@ -1,4 +1,3 @@
-import React from "react";
 import RepositoryCard from "./RepositoryCard";
 import { Pagination } from "antd";
 
